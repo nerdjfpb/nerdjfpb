@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there Nerdjfpb Aka Muhammad Here 👋
+
+- 🔭 I’m currently working on micro-services with golang and next js for the e-commerce
+
+- 🌱 I’m currently learning golang, typescript, react-native
+
+I'm active on instagram where I've around 47k coding friends, feel free to join & dm - https://instagram.com/nerd_jfpb
 
 <!--
 **nerdjfpb/nerdjfpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
