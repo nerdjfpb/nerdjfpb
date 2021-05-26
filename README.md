@@ -1,6 +1,6 @@
 ### Hi there Nerdjfpb Aka Muhammad Here 👋
 
-- 🔭 I’m currently working on micro-services with golang and next js for the e-commerce
+- 🔭 I’m currently working on google cloud micro-services with nodejs, golang & next js for the e-commerce
 
 - 🌱 I’m currently learning golang, typescript, react-native
 
