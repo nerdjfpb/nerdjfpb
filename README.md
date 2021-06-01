@@ -1,4 +1,4 @@
-### Hi there Nerdjfpb Aka Muhammad Here 👋
+### Hi! Nerdjfpb Aka Muhammad Here 👋
 
 - 🔭 I’m currently working on google cloud micro-services with nodejs, golang & next js for the e-commerce
 
