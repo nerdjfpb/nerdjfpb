@@ -1,22 +1,26 @@
-### Hi! Nerdjfpb Aka Muhammad Here 👋
+## Hi! I'm Muhammad Ali, definitely not the boxer 👋
 
-- 🔭 I’m currently working on google cloud micro-services with nodejs, golang & next js for the e-commerce
+I can describe myself as a tech nerd. My code name is "nerdjfpb"
 
-- 🌱 I’m currently learning golang, typescript, react-native
+### What I'm bringing with me
+- 6 years of professional experience as a full stack web developer
+- 3 years of working remotely
+- Frontend expert (focusing react js, next js daily tool)
+- Mid-level backend developer (focusing on node js, also knows golang)
+- Experienced in writing code for 500k+ per month users
+- Experienced in the team leading & management
+- Served 40+ clients as a freelancer
+- Wrote 100+ technical articles/contents
+- Mentored 50+ people for programming
+- Growing 45000+ followers on Instagram for programming
 
-I'm active on instagram where I've around 47k coding friends, feel free to join & dm - https://instagram.com/nerd_jfpb
 
-<!--
-**nerdjfpb/nerdjfpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Learning
+- React Native, Golang, Rust
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Important Links
+
+- Blog: https://blog.nerdjfpb.com
+- Twitter: https://twitter.com/nerdjfpb
+- Instagram: https://instagram.com/nerd_jfpb
