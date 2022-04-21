@@ -15,12 +15,15 @@ I can describe myself as a tech nerd. My code name is "nerdjfpb"
 - Growing 45000+ followers on Instagram for programming
 
 
+### I'm using regularly
+- Typescript, Nextjs, Reactjs, Javascript, Nodejs, Expressjs, Golang, GraphQL, Rest API, Google Cloud, Docker, Vscode & Git
+
+
 ### Currently Learning
 - React Native, Golang, Rust
 
 
 ### Important Links
-
 - Blog: https://blog.nerdjfpb.com
 - Twitter: https://twitter.com/nerdjfpb
 - Instagram: https://instagram.com/nerd_jfpb
