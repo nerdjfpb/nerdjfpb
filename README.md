@@ -27,3 +27,4 @@ I can describe myself as a tech nerd. My code name is "nerdjfpb"
 - Blog: https://blog.nerdjfpb.com
 - Twitter: https://twitter.com/nerdjfpb
 - Instagram: https://instagram.com/nerd_jfpb
+- Linkedin: https://www.linkedin.com/in/nerdjfpb/
