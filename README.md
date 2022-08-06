@@ -28,3 +28,6 @@ I can describe myself as a tech nerd. My code name is "nerdjfpb"
 - Twitter: https://twitter.com/nerdjfpb
 - Instagram: https://instagram.com/nerd_jfpb
 - Linkedin: https://www.linkedin.com/in/nerdjfpb/
+
+
+![Nerdjfpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdjfpb&show_icons=true&theme=prussian)
