@@ -1,4 +1,4 @@
-## Hi! I'm Muhammad Ali, definitely not the boxer 👋+
+## Hi! I'm Muhammad Ali, definitely not the boxer 👋
 
 I can describe myself as a tech nerd. My code name is "nerdjfpb"
 
