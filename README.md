@@ -3,8 +3,8 @@
 I can describe myself as a tech nerd. My code name is "nerdjfpb"
 
 ### What I'm bringing with me
-- 6+ years of professional experience as a full stack web developer
-- 3+ years of working remotely
+- 7+ years of professional experience as a full stack web developer
+- 4+ years of working remotely
 - Frontend expert (focusing typescript, next js, reactjs as daily tool)
 - Mid-level backend developer (focusing on node js, also knows golang)
 - Experienced in writing code for 500k+ per month users
