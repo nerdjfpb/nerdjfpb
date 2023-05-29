@@ -20,7 +20,7 @@ I can describe myself as a tech nerd. My code name is "nerdjfpb"
 
 
 ### Currently Learning
-- React Native, Rust
+- Nx, React Native, Rust
 
 
 ### Important Links
