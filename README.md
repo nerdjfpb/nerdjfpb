@@ -9,7 +9,7 @@ Hey there! 👋 I'm Muhammad Ali, a passionate tech nerd, and my code name is "n
 - 📈 Scalability and Performance: I've written code for platforms serving over 500k users per month, ensuring robust performance and scalability.
 - 👥 Team Leadership: My experience in team leading and management has allowed me to foster collaborative environments and deliver successful projects.
 - 💼 Freelancing Success: Having served 40+ clients as a freelancer, I've honed my skills in delivering exceptional web solutions tailored to unique requirements.
-- 📝 Technical Content Creation: I'm passionate about sharing knowledge, evident in my 100+ technical articles and contents.
+- 📝 Technical Content Creation: I'm passionate about sharing knowledge, evident in my 100+ technical articles and content.
 - 👨‍🏫 Mentorship: I've mentored over 50 individuals in programming, empowering them to become successful developers.
 - 📈 Growing Online Presence: My dedication to the developer community is evident in my 45,000+ followers on Instagram for programming.
 
