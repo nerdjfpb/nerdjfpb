@@ -2,40 +2,51 @@
 
 Hey there! 👋 I'm Muhammad Ali, a passionate tech nerd, and my code name is "nerdjfpb." With over 7 years of professional experience as a full stack web developer, I bring a wealth of expertise to the table.
 
-
+</br>
+</br>
 
 ## 🚀 What Sets Me Apart
 
 - 🏆 Frontend Expertise: TypeScript, Next.js, and React.js are my daily tools for crafting captivating and high-performing frontend experiences.
+</br>
 
 - 💻 Versatile Backend Skills: While I excel in frontend development, I'm also a mid-level backend developer, with a focus on Node.js and knowledge of Golang.
-
+ </br>
+ 
 - 📈 Scalability and Performance: I've written code for platforms serving over 500k users per month, ensuring robust performance and scalability.
+ </br>
  
 - 👥 Team Leadership: My experience in team leading and management has allowed me to foster collaborative environments and deliver successful projects.
+</br>
 
 - 💼 Freelancing Success: Having served 40+ clients as a freelancer, I've honed my skills in delivering exceptional web solutions tailored to unique requirements.
+</br>
 
 - 📝 Technical Content Creation: I'm passionate about sharing knowledge, evident in my 100+ technical articles and content.
+</br>
 
 - 👨‍🏫 Mentorship: I've mentored over 50 individuals in programming, empowering them to become successful developers.
+</br>
 
 - 📈 Growing Online Presence: My dedication to the developer community is evident in my 45,000+ followers on Instagram for programming.
 
-
+</br>
+</br>
 
 ## 🛠 My Tech Stack
 
 I frequently work with:
 - TypeScript, Next.js, React.js, JavaScript, Node.js, Express.js, GraphQL, Rest API, Google Cloud, Docker, Vscode, and Git.
 
-
+</br>
+</br>
 
 ## 🌱 Continuous Learning
 
 As a lifelong learner, I'm committed to growth and excellence. I'm currently expanding my skillset with Nx, React Native, and Rust, exploring new horizons in web and mobile development.
 
-
+</br>
+</br>
 
 ## 🔗 Important Links
 
