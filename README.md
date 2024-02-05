@@ -55,4 +55,7 @@ As a lifelong learner, I'm committed to growth and excellence. I'm currently exp
 - 📸 Instagram: [instagram.com/nerd_jfpb](https://instagram.com/nerd_jfpb)
 - 👔 LinkedIn: [linkedin.com/in/nerdjfpb](https://www.linkedin.com/in/nerdjfpb/)
 
+</br>
+</br>
+
 Feel free to connect with me on any of these platforms, and let's collaborate to build remarkable web experiences and shape the future of technology together! 🌟
