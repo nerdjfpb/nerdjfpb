@@ -1,61 +1,30 @@
-# Muhammad Ali - Full Stack Web Developer | TypeScript, Next.js, React.js Enthusiast 👨‍💻
+# Muhammad (nerdjfpb) — 🗡️ Frontend Swordsman: Fronted Lead@entechboiler | Full Stack Developer
 
-Hey there! 👋 I'm Muhammad Ali, a passionate tech nerd, and my code name is "nerdjfpb." With over 7 years of professional experience as a full stack web developer, I bring a wealth of expertise to the table.
+👋 I’m Muhammad — I ship production grade web products with the discipline of daily training: clean architecture, sharp UI and measurable performance.
 
-</br>
-</br>
+- ✅ 7+ years full‑stack
+- 🌍 4+ years remote
+- 📈 Built platforms used by 500k+ users
+- ✍️ 100+ articles
+- 👥 45k+ developer community
 
-## 🚀 What Sets Me Apart
+## 🧰 Tech Stack
+- 🎨 Frontend: React.js, Next.js, TypeScript
+- ⚙️ Backend: Node.js, Express.js, Golang
+- 🌐 Cross‑Platform: React Native, Expo
+- 🛠️ Tools: GraphQL, REST, Google Cloud, Docker, Git
 
-- 🏆 Frontend Expertise: TypeScript, Next.js, and React.js are my daily tools for crafting captivating and high-performing frontend experiences.
-</br>
+## 🧠 How I work
+Ownership, speed with quality, and turning complex requirements into simple user experiences. Performance matters—shipping is a habit.
 
-- 💻 Versatile Backend Skills: While I excel in frontend development, I'm also a mid-level backend developer, with a focus on Node.js and knowledge of Golang.
- </br>
- 
-- 📈 Scalability and Performance: I've written code for platforms serving over 500k users per month, ensuring robust performance and scalability.
- </br>
- 
-- 👥 Team Leadership: My experience in team leading and management has allowed me to foster collaborative environments and deliver successful projects.
-</br>
+## 🏋️ Currently training
+- Building faster with AI-assisted workflows (without sacrificing code quality)
+- Performance-centric frontend (Core Web Vitals, bundle size, rendering, DX)
+- Leveling up: React Native + Rust
 
-- 💼 Freelancing Success: Having served 40+ clients as a freelancer, I've honed my skills in delivering exceptional web solutions tailored to unique requirements.
-</br>
-
-- 📝 Technical Content Creation: I'm passionate about sharing knowledge, evident in my 100+ technical articles and content.
-</br>
-
-- 👨‍🏫 Mentorship: I've mentored over 50 individuals in programming, empowering them to become successful developers.
-</br>
-
-- 📈 Growing Online Presence: My dedication to the developer community is evident in my 45,000+ followers on Instagram for programming.
-
-</br>
-</br>
-
-## 🛠 My Tech Stack
-
-I frequently work with:
-- TypeScript, Next.js, React.js, JavaScript, Node.js, Express.js, GraphQL, Rest API, Google Cloud, Docker, Vscode, and Git.
-
-</br>
-</br>
-
-## 🌱 Continuous Learning
-
-As a lifelong learner, I'm committed to growth and excellence. I'm currently expanding my skillset with Nx, React Native, and Rust, exploring new horizons in web and mobile development.
-
-</br>
-</br>
-
-## 🔗 Important Links
-
-- 📝 Blog: [blog.nerdjfpb.com](https://blog.nerdjfpb.com)
-- 🐦 Twitter: [twitter.com/nerdjfpb](https://twitter.com/nerdjfpb)
-- 📸 Instagram: [instagram.com/nerd_jfpb](https://instagram.com/nerd_jfpb)
-- 👔 LinkedIn: [linkedin.com/in/nerdjfpb](https://www.linkedin.com/in/nerdjfpb/)
-
-</br>
-</br>
-
-Feel free to connect with me on any of these platforms, and let's collaborate to build remarkable web experiences and shape the future of technology together! 🌟
+## 🔗 Links
+- Portfolio: https://nerdjfpb.com
+- Blog: https://blog.nerdjfpb.com
+- X/Twitter: https://twitter.com/nerdjfpb
+- GitHub: https://github.com/nerdjfpb
+- LinkedIn: https://www.linkedin.com/in/nerdjfpb/
