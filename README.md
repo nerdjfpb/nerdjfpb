@@ -1,4 +1,4 @@
-# Muhammad (nerdjfpb) — 🗡️ Frontend Swordsman: Fronted Lead@entechboiler | Full Stack Developer
+# Muhammad (nerdjfpb) — 🗡️ Frontend Swordsman | Fronted Lead@entechboiler
 
 👋 I’m Muhammad — I ship production grade web products with the discipline of daily training: clean architecture, sharp UI and measurable performance.
 
