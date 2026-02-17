@@ -1,4 +1,4 @@
-# Muhammad (nerdjfpb) — 🗡️ Frontend Swordsman | Fronted Lead@entechboiler
+# Muhammad (nerdjfpb) | Fronted Lead @entechboiler
 
 👋 I’m Muhammad — I ship production grade web products with the discipline of daily training: clean architecture, sharp UI and measurable performance.
 
@@ -15,11 +15,11 @@
 - 🛠️ Tools: GraphQL, REST, Google Cloud, Docker, Git
 
 ## 🧠 How I work
-Ownership, speed with quality, and turning complex requirements into simple user experiences. Performance matters—shipping is a habit.
+Ownership, speed with quality, and turning complex requirements into simple user experiences. Performance matters shipping is a habit.
 
 ## 🏋️ Currently training
-- Building faster with AI-assisted workflows (without sacrificing code quality)
-- Performance-centric frontend (Core Web Vitals, bundle size, rendering, DX)
+- Building faster with AI assisted workflows (without sacrificing code quality)
+- Performance centric frontend (Core Web Vitals, bundle size, rendering, DX)
 - Leveling up: React Native + Rust
 
 ## 🔗 Links
