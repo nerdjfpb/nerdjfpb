@@ -1,6 +1,6 @@
 # Muhammad (nerdjfpb) | Fronted Lead @entechboiler
 
-👋 I’m Muhammad — I ship production grade web products with the discipline of daily training: clean architecture, sharp UI and measurable performance.
+👋 I’m Muhammad | shipping production grade web products with the discipline of daily training: clean architecture, sharp UI and measurable performance. AI is boosting the process 10x now.
 
 - ✅ 7+ years full‑stack
 - 🌍 4+ years remote
