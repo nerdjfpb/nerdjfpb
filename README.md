@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Muhammad (nerdjfpb)
 
-### Frontend Tech Lead | Product Engineer | React, Next.js & TypeScript
+### Frontend Tech Lead | AI x Product Engineer | React, Next.js & TypeScript
 
 I'm a Bangladesh based software engineer with 8+ years of experience building web and mobile products, including 6+ years working remotely with international teams.
 
