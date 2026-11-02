@@ -1,30 +1,42 @@
-# Muhammad (nerdjfpb) | Fronted Lead @entechboiler
+# 👋 Hey, I'm Muhammad (nerdjfpb)
 
-👋 I’m Muhammad | shipping production grade web products with the discipline of daily training: clean architecture, sharp UI and measurable performance. AI is boosting the process 10x now.
+### Frontend Tech Lead | Product Engineer | React, Next.js & TypeScript
 
-- ✅ 7+ years full‑stack
-- 🌍 4+ years remote
-- 📈 Built platforms used by 500k+ users
-- ✍️ 100+ articles
-- 👥 45k+ developer community
+I'm a Bangladesh based software engineer with 8+ years of experience building web and mobile products, including 6+ years working remotely with international teams.
 
-## 🧰 Tech Stack
-- 🎨 Frontend: React.js, Next.js, TypeScript
-- ⚙️ Backend: Node.js, Express.js, Golang
-- 🌐 Cross‑Platform: React Native, Expo
-- 🛠️ Tools: GraphQL, REST, Google Cloud, Docker, Git
+I enjoy turning complex problems into simple, reliable products. My work spans frontend architecture, backend services, mobile development, and leading engineering teams. I care about clean code, thoughtful user experiences, and shipping things that actually work.
 
-## 🧠 How I work
-Ownership, speed with quality, and turning complex requirements into simple user experiences. Performance matters shipping is a habit.
+### ⚡ A little about me
 
-## 🏋️ Currently training
-- Building faster with AI assisted workflows (without sacrificing code quality)
-- Performance centric frontend (Core Web Vitals, bundle size, rendering, DX)
-- Leveling up: React Native + Rust
+- 💻 8+ years building production applications
+- 🌍 6+ years collaborating with global remote teams
+- 📈 Built platforms serving 500K+ users
+- ✍️ Published 100+ technical articles
+- 👥 Built a developer community of 45K+
+- 🚀 Previously Lead Frontend Developer at Entech
 
-## 🔗 Links
-- Portfolio: https://nerdjfpb.com
-- Blog: https://blog.nerdjfpb.com
-- X/Twitter: https://twitter.com/nerdjfpb
-- GitHub: https://github.com/nerdjfpb
-- LinkedIn: https://www.linkedin.com/in/nerdjfpb/
+### 🧰 What I work with
+
+- **Frontend:** React, Next.js, TypeScript
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, Express, Go
+- **APIs:** GraphQL, REST
+- **Infrastructure:** Google Cloud, Docker, GitHub Actions
+- **AI-assisted development:** Claude, Cursor, Codex
+
+### 🧠 What I'm focused on
+
+I'm interested in building better products with smaller, more effective engineering teams.
+
+Lately, I've been exploring how AI-assisted development can improve everyday engineering work, from implementation and debugging to code reviews and technical decision-making.
+
+I'm also continuing to work on frontend performance, scalable architecture, and cross-platform development.
+
+### 🤝 Let's connect
+
+I'm open to fully remote **Frontend Lead, Senior Frontend Engineer, and Senior Product Engineer** opportunities.
+
+- 🌐 [Portfolio](https://nerdjfpb.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nerdjfpb/)
+- ✍️ [Technical Blog](https://blog.nerdjfpb.com)
+- 🐦 [X / Twitter](https://twitter.com/nerdjfpb)
