@@ -1,42 +1,66 @@
-# 👋 Hey, I'm Muhammad (nerdjfpb)
+# Hey, I'm Muhammad 👋
 
-### Frontend Tech Lead | AI x Product Engineer | React, Next.js, TypeScript, React Native & Expo
+### Product Engineer focused on frontend · React, Next.js, TypeScript, React Native
 
-I'm a Bangladesh based software engineer with 8+ years of experience building web and mobile products, including 6+ years working remotely with international teams.
+I build web and mobile products that feel finished, from the design system up. 8+ years shipping for teams around the world, on platforms with 500K+ users, with enough Node.js and Go to own the whole request.
 
-I enjoy turning complex problems into simple, reliable products. My work spans frontend architecture, backend services, mobile development, and leading engineering teams. I care about clean code, thoughtful user experiences, and shipping things that actually work.
+🌍 Based in Bangladesh · Working remotely with global teams
 
-### ⚡ A little about me
+---
 
-- 💻 8+ years building production applications
-- 🌍 6+ years collaborating with global remote teams
-- 📈 Built platforms serving 500K+ users
-- ✍️ Published 100+ technical articles
-- 👥 Built a developer community of 45K+
-- 🚀 Previously Lead Frontend Developer at Entech
+### ⚡ What I do
 
-### 🧰 What I work with
+- 📱 **Mobile apps** for iOS and Android with React Native and Expo, including custom design systems and Liquid Glass UI
+- 🖥️ **Web apps and dashboards** with Next.js, from customer portals to dense internal tools and CRMs
+- 🎨 **Design systems** built from scratch or extended from shadcn/ui, Chakra UI and NativeBase
+- ✨ **Interaction details** such as optimistic updates, drag and drop, gestures and motion
+- ⚙️ **Backend when needed** with Node.js, Go, GraphQL and REST
 
-- **Frontend:** React, Next.js, TypeScript
-- **Mobile:** React Native, Expo
-- **Backend:** Node.js, Express, Go
-- **APIs:** GraphQL, REST
-- **Infrastructure:** Google Cloud, Docker, GitHub Actions
-- **AI-assisted development:** Claude, Cursor, Codex
+---
 
-### 🧠 What I'm focused on
+### 🎮 Try my work
 
-I'm interested in building better products with smaller, more effective engineering teams.
+Most of my product work sits behind logins, so I rebuilt the interesting parts as live playgrounds you can actually use: a thermostat comfort dial, a Liquid Glass bottom sheet, a drag-and-drop sensor map, an optimistic sales pipeline and more.
 
-Lately, I've been exploring how AI-assisted development can improve everyday engineering work, from implementation and debugging to code reviews and technical decision-making.
+👉 **[Explore the playgrounds](https://nerdjfpb.com/craft)**
 
-I'm also continuing to work on frontend performance, scalable architecture, and cross-platform development.
+---
+
+### 🧰 Tech stack
+
+[![Tech stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,go,graphql,mysql,mongodb,docker,gcp,githubactions,vercel)](https://skillicons.dev)
+
+**Mobile:** React Native, Expo, Reanimated
+**Data:** TanStack Query, Apollo 
+**UI:** shadcn/ui, Chakra UI, Motion, dnd-kit
+**Testing:** Playwright, Cypress 
+**Monorepos:** Nx, Lerna
+
+🤖 I use Claude, Cursor and Codex every day for ideas and first drafts, then review and test everything before it ships.
+
+---
+
+### ✍️ Writing and community
+
+I've written **100+ technical articles** and share developer content with a community of **35K+** on Instagram.
+
+---
+
+### 💬 Always happy to talk about
+
+- Frontend architecture and performance
+- Design systems and UI details
+- React Native and cross-platform apps
+- AI-assisted engineering workflows
+
+Always open to a good role or an interesting product, so feel free to reach out.
+
+---
 
 ### 🤝 Let's connect
 
-I'm open to fully remote **Frontend Lead, Senior Frontend Engineer, and Senior Product Engineer** opportunities.
-
-- 🌐 [Portfolio](https://nerdjfpb.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nerdjfpb/)
-- ✍️ [Technical Blog](https://blog.nerdjfpb.com)
-- 🐦 [X / Twitter](https://twitter.com/nerdjfpb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nerdjfpb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerdjfpb/)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.nerdjfpb.com)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nerdjfpb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nerd_jfpb)
